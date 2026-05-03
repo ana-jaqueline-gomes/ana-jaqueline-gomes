@@ -9,5 +9,7 @@
 </ul>
 <h2>    🪼⋆.ೃ࿔*:･Meios de contato🪼⋆.ೃ࿔*:･ </h2>
 <ul>
-  <li></li>
+  <li> <a href="https://www.linkedin.com/in/ana-jaqueline-gomes-souza-dos-santos-825702318/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a></li>
 </ul>
