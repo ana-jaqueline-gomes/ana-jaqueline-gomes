@@ -1,3 +1,5 @@
+<img width="1400" height="300" alt="image" src="https://github.com/user-attachments/assets/9cf3c2dc-6fed-4296-8bee-9540fcd57b67" />
+
 ## ✨ Olá, bem-vindo(a) ao meu GitHub✨
 <h2>💎Sobre mim</h2>
 <ul>
@@ -6,4 +8,3 @@
   <li>💎Uma curiosidade é que eu toco piano.</li>
 </ul>
 
-<img width="100" height="100" alt="BlueHeartsLoveGIF (2)" src="https://github.com/user-attachments/assets/739491cf-45c3-4189-8a4d-be14df3085a2" />
